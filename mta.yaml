@@ -16,6 +16,7 @@ build-parameters:
       - npm install --production
       - npx -p @sap/cds-dk cds build --production
 
+
 modules:
  # --------------------- SERVER MODULE ------------------------
  - name: risk-management-srv
